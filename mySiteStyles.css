@@ -1,0 +1,17 @@
+.intro-pic{
+    text-align: center;
+}
+
+body{
+    background-color: #faeee7;
+}
+
+.profile-image{
+    border-radius: 100%;
+    width : 45%;
+    margin: 20px;
+}
+
+.intro-to-me{
+    text-align : left;
+}
